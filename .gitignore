@@ -1,1 +1,3 @@
 .DS_Store
+naturesrx_ext/.venv/
+naturesrx_ext/src/__pycache__/
