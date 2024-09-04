@@ -1,2 +1,6 @@
 .DS_Store
 naturesrx_ext/__pycache__/
+delivery_prediction/src/__pycache__
+delivery_prediction
+titanic
+operation_prediction
